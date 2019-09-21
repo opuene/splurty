@@ -1,0 +1,4 @@
+  [1m[35m (477.1ms)[0m  [1m[35mCREATE DATABASE "splurty_development" ENCODING = 'unicode'[0m
+  ↳ /home/vagrant/.rbenv/versions/2.5.3/bin/rake:23
+  [1m[35m (233.7ms)[0m  [1m[35mCREATE DATABASE "splurty_test" ENCODING = 'unicode'[0m
+  ↳ /home/vagrant/.rbenv/versions/2.5.3/bin/rake:23
